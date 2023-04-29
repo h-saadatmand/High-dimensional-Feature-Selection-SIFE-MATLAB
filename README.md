@@ -1,4 +1,4 @@
-# High-dimensional-Feature-Selection-SIFE
+# High-dimensional-Feature-Selection-SIFE-MATLAB
 An efficeint wrapper-based High-dimensional Feature Selection(SIFE) in MATLAB
 The related article:
 "Set-based integer-coded fuzzy granular evolutionary algorithms for high-dimensional feature selection".    
