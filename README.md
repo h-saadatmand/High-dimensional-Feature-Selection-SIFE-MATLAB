@@ -1,10 +1,10 @@
 # High-dimensional-Feature-Selection-SIFE-MATLAB
-An efficeint wrapper-based High-dimensional Feature Selection(SIFE) in MATLAB
+An efficient wrapper-based High-dimensional Feature Selection(SIFE) in MATLAB
 , and the related article:
 "Set-based integer-coded fuzzy granular evolutionary algorithms for high-dimensional feature selection".    
 
-You can easily load your data on MATLAB as a Maxtic and run the MainSIFE.m code to select the best feature set.
-Note: for repalcing another data you should only follow two steps:
+You can easily load your data on MATLAB as a Matrix and run the MainSIFE.m code to select the best feature set.
+Note: for replacing another data you should only follow two steps:
 %     1 : load your data in Matlab (by 'load' ,'importdata' ,'xlsread', and etc. commands)
 %     2 : prepare the data as a Matrix that contains both features and labels as follows:
 %       'data' is a matrix [N*(F+1)] where N is number of instances(rows), ...
