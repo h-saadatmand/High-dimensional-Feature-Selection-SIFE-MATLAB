@@ -17,10 +17,10 @@ Note: for replacing another data you should only follow two steps:
 
 
 You can cite the article with:
-% H. Saadatmand, M.-R. Akbarzadeh-T,
-% Set-based integer-coded fuzzy granular evolutionary algorithms for high-dimensional feature selection,
-% Applied Soft Computing,
-% 2023,110240,ISSN 1568-4946,
+ H. Saadatmand, M.-R. Akbarzadeh-T,
+ Set-based integer-coded fuzzy granular evolutionary algorithms for high-dimensional feature selection,
+ Applied Soft Computing,
+ 2023,110240,ISSN 1568-4946,
 % https://doi.org/10.1016/j.asoc.2023.110240.
 
 h.saadatmand22@yhaoo.com
